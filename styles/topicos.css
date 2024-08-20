@@ -44,8 +44,4 @@
     .topicos {
         padding: 3em 25vw;
     }
-    .topicos__link:hover {
-        padding: 1.1em;
-        background: var(--azul-degrade);
-    }
 }
